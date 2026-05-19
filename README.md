@@ -4,4 +4,4 @@ I co-founded [WunderGraph](https://wundergraph.com) and helped build it from an 
 
 As a first-time founder, that journey changed how I build. I hired every engineer myself and helped shape a culture around ego-less collaboration, openness, ownership, and high standards. Building something from scratch that supports dozens of people and their families is hard to describe. It stays with you.
 
-Now I'm a Principal Engineer at OpenCode. AI is changing how software gets written, shipped, and maintained. I want developers to keep control: choose their models, own their stack, protect their data, and optimize costs without getting locked into closed ecosystems.
+Now I'm a Principal Engineer at [OpenCode](https://github.com/anomalyco). AI is changing how software gets written, shipped, and maintained. I want developers to keep control: choose their models, own their stack, protect their data, and optimize costs without getting locked into closed ecosystems.
