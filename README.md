@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-My name is Dustin Deus, I'm Co-Founder & CTO at [WunderGraph](https://wundergraph.com). I have over a decade experience in software engineering and architecture. Throughout my career, I've developed a passion for creating innovative software that developers love. I've worked on complex challenges, including designing and implementing **API Gateways**, **Edge-Proxies**, and comprehensive **SaaS solutions**.
+I co-founded [WunderGraph](https://wundergraph.com) and helped build it from an idea into a real company. We raised our Seed round, failed with the first product, built Cosmo in four weeks, survived, raised our Series A, and found our way to a platform used by teams at eBay, SoundCloud, Paramount, and others to integrate, collaborate on, and operate APIs at scale, today driving tens of billions of requests.
 
-At WunderGraph, we're building the Open Source solution to build, manage, and deploy federated GraphQL APIs. You can use our [**Cloud**](https://cosmo.wundergraph.com/) or run the whole stack On-Prem (Kubernetes). GraphQL is the technology companies need to facilitate the development of a unified API layer that can be consumed not only by users but also by internal teams to accelerate innovation in companies. **Data is the new oil**, and we're here to help companies leverage their data in a more efficient way.
+As a first-time founder, that journey changed how I build. I hired every engineer myself and helped shape a culture around ego-less collaboration, openness, ownership, and high standards. Building something from scratch that supports dozens of people and their families is hard to describe. It stays with you.
 
-If this sounds interesting to you, [we're hiring](https://wundergraph.com/jobs)!
+Now I'm a Principal Engineer at OpenCode. AI is changing how software gets written, shipped, and maintained. I want developers to keep control: choose their models, own their stack, protect their data, and optimize costs without getting locked into closed ecosystems.
